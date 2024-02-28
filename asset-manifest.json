@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desginn/static/css/main.2c19ba75.css",
+    "main.js": "/desginn/static/js/main.c480e12c.js",
+    "index.html": "/desginn/index.html",
+    "main.2c19ba75.css.map": "/desginn/static/css/main.2c19ba75.css.map",
+    "main.c480e12c.js.map": "/desginn/static/js/main.c480e12c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c19ba75.css",
+    "static/js/main.c480e12c.js"
+  ]
+}
